@@ -1,0 +1,11 @@
+{
+  "name": "make-json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "buffer-image": "^1.0.0",
+    "csv-parser": "^3.0.0",
+    "path": "^0.12.7"
+  }
+}
